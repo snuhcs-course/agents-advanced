@@ -16,7 +16,7 @@ English Jupyter notebook that walks through the [Deep Agents overview Core capab
 ### macOS / Linux
 
 ```bash
-cd deep-agents-lab
+cd agents-advanced
 python3.13 -m venv .venv   # or python3.11 / python3.12
 source .venv/bin/activate
 pip install -r requirements.txt
